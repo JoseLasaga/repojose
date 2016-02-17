@@ -15,8 +15,8 @@ public class Ciervo extends Animal {
 		return npuntas;
 	}
 
-	public void setNpuntas(int npuntas) {
-		this.npuntas = npuntas;
+	public void setNpuntas(int npunta) {
+		this.npuntas = npunta;
 	}
 
 	@Override
